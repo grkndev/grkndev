@@ -3,7 +3,7 @@
 - Kendimden kısaca bahsedeyim. Ben [Gweep Creative](https://github.com/GweepCreative) öğrenmeye,gelişmeye her zaman açık birisiyim.
 2.5 yıla yakındır yazılım ile ilgileniyorum. [RabeL Code](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
-- Yoksa hâlâ RabeL Development ekibinin geliştirmekte olduğu [Bot Club](https://rabelcode.com/)'e göz atmadın mı ?
+- Yoksa hâlâ RabeL Development ekibinin geliştirmekte olduğu [RabeL Code](https://rabelcode.com/)'e göz atmadın mı ?
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 
