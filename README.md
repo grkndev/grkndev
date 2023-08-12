@@ -16,7 +16,7 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,sass,php,bootstrap,tailwind,nodejs,express,sqlite,mysql,mongodb,firebase,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,sass,php,bootstrap,tailwind,nodejs,express,sqlite,mysql,mongodb,firebase,react,nextjs,cs,cpp&theme=dark" />
 </div>
 
 <br />
