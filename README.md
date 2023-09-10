@@ -6,10 +6,10 @@
    
 ## 🧐 About
 
-- Hello, I'm Gweep Creative. Someone who is obsessed with software
+- Hello, I'm Grkn. Someone who is obsessed with software
 
 - 👨‍💻 Website: https://rabelcode.net
-- 📹 Youtube: https://youtube.com/@GweepCreative
+- 👨‍💻 Twitter: https://x.com/@gweepcreative
 - 📫 How to reach me: gweepcreative@gmail.com
   
 <br />
