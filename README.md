@@ -12,7 +12,10 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,cs,cpp,arduino,py,html,css,tailwind,mongodb,sqlite,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,arduino,py&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,firebase&theme=dark" /><br/>
 </div>
 
 <br />
