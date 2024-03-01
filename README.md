@@ -28,4 +28,4 @@
 
 <br />
 
-[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GweepCreative&theme=dark)
+[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GweepCreative&theme=dark)]
