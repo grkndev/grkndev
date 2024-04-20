@@ -6,7 +6,8 @@
 - Hello, I'm Grkn. Someone who is obsessed with software
 
 - 👨‍💻 Twitter: https://x.com/@gweepcreative
-- 📫 How to reach me: gweepcreative@gmail.com
+- 📫 How to reach me: info@grkn.com
+- My own web site: https://grkn.dev
   
 <br />
    
