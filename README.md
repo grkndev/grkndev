@@ -23,10 +23,10 @@
 
 ## 📱 Me on Media
 <div>
-   <a href="https://twitter.com/@GweepCreative"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://twitter.com/@grkndev"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
    <a href="https://discord.com/users/586822327568695317"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
 <br />
 
-[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GweepCreative&theme=dark)]
+[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=grkndev&theme=dark)]
